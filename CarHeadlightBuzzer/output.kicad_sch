@@ -581,7 +581,6 @@
     )
   )
 
-
   (junction (at 120.65 128.27) (diameter 0) (color 0 0 0 0)
     (uuid 0af0be17-98b5-4755-9f39-1e742f0ebfe6)
   )
@@ -1047,7 +1046,7 @@
     (property "Value" "BZX79C10" (at 134.112 77.343 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "DIOAD1068W53L380D172" (at 127 78.74 0)
+    (property "Footprint" "SamacSys_Parts:DIOAD1068W53L380D172" (at 127 78.74 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "https://www.fairchildsemi.com/datasheets/BZ/BZX79C10.pdf" (at 129.54 78.74 0)
