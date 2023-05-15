@@ -708,7 +708,7 @@
           (reference "D7") (unit 1)
         )
       )
-      (project "CarHeadlightBuzzer"
+      (project "BasicBitch328pThingy"
         (path "/76196dfb-f920-48e5-a1dc-ea507c9de24d"
           (reference "D3") (unit 1)
         )
@@ -756,7 +756,7 @@
           (reference "#PWR033") (unit 1)
         )
       )
-      (project "CarHeadlightBuzzer"
+      (project "BasicBitch328pThingy"
         (path "/76196dfb-f920-48e5-a1dc-ea507c9de24d"
           (reference "#PWR024") (unit 1)
         )
@@ -806,7 +806,7 @@
           (reference "Q11") (unit 1)
         )
       )
-      (project "CarHeadlightBuzzer"
+      (project "BasicBitch328pThingy"
         (path "/76196dfb-f920-48e5-a1dc-ea507c9de24d"
           (reference "Q2") (unit 1)
         )
@@ -855,7 +855,7 @@
           (reference "R18") (unit 1)
         )
       )
-      (project "CarHeadlightBuzzer"
+      (project "BasicBitch328pThingy"
         (path "/76196dfb-f920-48e5-a1dc-ea507c9de24d"
           (reference "R6") (unit 1)
         )
@@ -903,7 +903,7 @@
           (reference "#PWR032") (unit 1)
         )
       )
-      (project "CarHeadlightBuzzer"
+      (project "BasicBitch328pThingy"
         (path "/76196dfb-f920-48e5-a1dc-ea507c9de24d"
           (reference "#PWR023") (unit 1)
         )
@@ -952,7 +952,7 @@
           (reference "R20") (unit 1)
         )
       )
-      (project "CarHeadlightBuzzer"
+      (project "BasicBitch328pThingy"
         (path "/76196dfb-f920-48e5-a1dc-ea507c9de24d"
           (reference "R8") (unit 1)
         )
@@ -1020,7 +1020,7 @@
           (reference "Q12") (unit 1)
         )
       )
-      (project "CarHeadlightBuzzer"
+      (project "BasicBitch328pThingy"
         (path "/76196dfb-f920-48e5-a1dc-ea507c9de24d"
           (reference "Q3") (unit 1)
         )
@@ -1087,7 +1087,7 @@
           (reference "Z8") (unit 1)
         )
       )
-      (project "CarHeadlightBuzzer"
+      (project "BasicBitch328pThingy"
         (path "/76196dfb-f920-48e5-a1dc-ea507c9de24d"
           (reference "Z5") (unit 1)
         )
@@ -1136,7 +1136,7 @@
           (reference "R19") (unit 1)
         )
       )
-      (project "CarHeadlightBuzzer"
+      (project "BasicBitch328pThingy"
         (path "/76196dfb-f920-48e5-a1dc-ea507c9de24d"
           (reference "R7") (unit 1)
         )

@@ -702,7 +702,7 @@
           (reference "D8") (unit 1)
         )
       )
-      (project "CarHeadlightBuzzer"
+      (project "BasicBitch328pThingy"
         (path "/76196dfb-f920-48e5-a1dc-ea507c9de24d"
           (reference "D2") (unit 1)
         )
@@ -741,7 +741,7 @@
           (reference "#PWR05") (unit 1)
         )
       )
-      (project "CarHeadlightBuzzer"
+      (project "BasicBitch328pThingy"
         (path "/76196dfb-f920-48e5-a1dc-ea507c9de24d"
           (reference "#PWR022") (unit 1)
         )
@@ -780,7 +780,7 @@
           (reference "#PWR05") (unit 1)
         )
       )
-      (project "CarHeadlightBuzzer"
+      (project "BasicBitch328pThingy"
         (path "/76196dfb-f920-48e5-a1dc-ea507c9de24d"
           (reference "#PWR022") (unit 1)
         )
@@ -828,7 +828,7 @@
           (reference "#PWR031") (unit 1)
         )
       )
-      (project "CarHeadlightBuzzer"
+      (project "BasicBitch328pThingy"
         (path "/76196dfb-f920-48e5-a1dc-ea507c9de24d/b6d832cc-b841-498f-af6c-e64facc632e2"
           (reference "#PWR031") (unit 1)
         )
@@ -875,7 +875,7 @@
           (reference "Q10") (unit 1)
         )
       )
-      (project "CarHeadlightBuzzer"
+      (project "BasicBitch328pThingy"
         (path "/76196dfb-f920-48e5-a1dc-ea507c9de24d"
           (reference "Q1") (unit 1)
         )
@@ -912,7 +912,7 @@
     (pin "3" (uuid a9a90d9b-8b97-449e-bb6b-33818b844a41))
     (pin "4" (uuid 5d15a2c4-2411-401a-96de-98a3e9270d5c))
     (instances
-      (project "CarHeadlightBuzzer"
+      (project "BasicBitch328pThingy"
         (path "/76196dfb-f920-48e5-a1dc-ea507c9de24d/b6d832cc-b841-498f-af6c-e64facc632e2"
           (reference "U3") (unit 1)
         )
@@ -958,7 +958,7 @@
           (reference "R35") (unit 1)
         )
       )
-      (project "CarHeadlightBuzzer"
+      (project "BasicBitch328pThingy"
         (path "/76196dfb-f920-48e5-a1dc-ea507c9de24d"
           (reference "R1") (unit 1)
         )
@@ -1007,7 +1007,7 @@
           (reference "R17") (unit 1)
         )
       )
-      (project "CarHeadlightBuzzer"
+      (project "BasicBitch328pThingy"
         (path "/76196dfb-f920-48e5-a1dc-ea507c9de24d"
           (reference "R5") (unit 1)
         )
@@ -1056,7 +1056,7 @@
           (reference "C5") (unit 1)
         )
       )
-      (project "CarHeadlightBuzzer"
+      (project "BasicBitch328pThingy"
         (path "/76196dfb-f920-48e5-a1dc-ea507c9de24d"
           (reference "C2") (unit 1)
         )
@@ -1105,7 +1105,7 @@
           (reference "R17") (unit 1)
         )
       )
-      (project "CarHeadlightBuzzer"
+      (project "BasicBitch328pThingy"
         (path "/76196dfb-f920-48e5-a1dc-ea507c9de24d"
           (reference "R5") (unit 1)
         )
@@ -1154,7 +1154,7 @@
           (reference "R17") (unit 1)
         )
       )
-      (project "CarHeadlightBuzzer"
+      (project "BasicBitch328pThingy"
         (path "/76196dfb-f920-48e5-a1dc-ea507c9de24d"
           (reference "R5") (unit 1)
         )
@@ -1202,7 +1202,7 @@
           (reference "#PWR031") (unit 1)
         )
       )
-      (project "CarHeadlightBuzzer"
+      (project "BasicBitch328pThingy"
         (path "/76196dfb-f920-48e5-a1dc-ea507c9de24d/b6d832cc-b841-498f-af6c-e64facc632e2"
           (reference "#PWR01") (unit 1)
         )
