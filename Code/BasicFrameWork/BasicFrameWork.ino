@@ -1,10 +1,10 @@
-#define Input1 3
-#define Input2 4
-#define Input3 2
-#define Output1 5
-#define Output2 6
-#define Output3 9
-#define LED 7
+#define Input1
+#define Input2
+#define Input3
+#define Output1
+#define Output2
+#define Output3
+#define LED
 
 
 void setup() {

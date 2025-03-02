@@ -1,11 +1,10 @@
-#define HeadLight 3
-#define EngineRun 4
-#define Input3 2
-#define DingDong 5
-#define EGR 6
-#define Output3 9
-#define LED 7
-
+#define HeadLight
+#define EngineRun
+#define Input3
+#define DingDong
+#define EGR
+#define Output3
+#define LED
 
 long EGRTimer, WarningTimer;
 bool DelayEGR, WarningDelay = false;
